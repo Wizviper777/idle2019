@@ -1,0 +1,35 @@
+#maincontainer {
+  width:100vw;
+  height:100vh;
+  border:1px solid black;
+}
+
+#sidebar {
+  border-right:1px solid black;
+  width:100%;
+  height:100%;
+  padding:0px;
+  margin:0px;
+}
+
+#mainrow {
+  height:95%;
+}
+
+#logbar {
+  height:5%;
+  border-bottom:1px solid black;
+}
+
+#roomtab {
+  height:100%;
+}
+
+#startgame {
+  vertical-align:middle;
+}
+
+.sidebarbtn {
+  width:100%;
+}
+
