@@ -29,6 +29,17 @@
   height:100%;
 }
 
+#digProgress {
+  width: 15%;
+  background-color: grey;
+}
+
+#digBar {
+  width: 1%;
+  height: 30px;
+  background-color: green;
+}
+
 .sidebarbtn {
   width:100%;
 }
