@@ -8,6 +8,9 @@ $(document).ready(function(){
     digcheck:false
   }
   $("#tunneltab").hide();
+  $("#techtab").hide();
+  $("#combattab").hide();
+  $("#logtab").hide();
 
   function changeScene(scene) {
     if(scene == 'room') {
